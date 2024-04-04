@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(bind.root)
 
         bind.tv.text = bind.tv.text.toString() + " : bind"
+
+
     }
 }
