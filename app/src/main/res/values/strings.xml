@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">BookApp</string>
+    <string name="join_intro">
+        회원가입을 하려면<font color="#03A9F4">여기</font>를 클릭해주세요</string>
     <string name="bookValue">어린 왕자가 내게 말했어 사람이 사람의 맘을 얻는
         일이라는 게 가장 어렵다고
         그렇다며 내게 다가와 어린 왕자가 내게 말했어 지금은 슬프겠지만 우린
